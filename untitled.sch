@@ -7065,13 +7065,13 @@ Source: www.kingbright.com</description>
 </variantdefs>
 <classes>
 <class number="0" name="default" width="0" drill="0">
-<clearance class="0" value="0.508"/>
+<clearance class="0" value="0.6096"/>
 </class>
 <class number="1" name="UART" width="0" drill="0">
-<clearance class="1" value="0.508"/>
+<clearance class="1" value="0.6096"/>
 </class>
 <class number="2" name="ESP-WROOM-02" width="0" drill="0">
-<clearance class="2" value="0.508"/>
+<clearance class="2" value="0.6096"/>
 </class>
 </classes>
 <groups>
